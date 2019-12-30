@@ -1,0 +1,17 @@
+Instructions for playing Sodoku
+1. Open the program
+2. Select between a Random board, and Custom Board
+
+How to place a value on the board:
+1. Click on an empty square
+2. Press the value on the keyboard
+3. ***IF*** the value is an invalid move, the value will not appear on the board
+
+How to delete a value on the board:
+1. Click on a value which was previously placed (Indicated by a red number)
+2. Press the "delete" button on the keyboard
+
+How to submit the custom board:
+1. Finish placing the values on the board
+2. Press the "enter" button on the keyboard
+3. If done successfully, the custom numbers will turn black, which indicates the board is ready for play!
